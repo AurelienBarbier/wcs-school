@@ -1,0 +1,4 @@
+wcs_school:
+    resource: "@WCSSchoolBundle/Resources/config/routing.yml"
+    prefix:   /
+
